@@ -11,3 +11,6 @@ Run the following command in the cloned directory to start the server:
 ```$ python -m SimpleHTTPServer```
 
 #### enjoy!!!
+![screenshot](https://github.com/Chansen88/spaceFrogger/blob/master/Screen%20Shot%202016-01-28%20at%2010.51.51%20AM.png)
+
+Shout out to [Teagan Wrest](https://github.com/wrestt) for his contributions.
